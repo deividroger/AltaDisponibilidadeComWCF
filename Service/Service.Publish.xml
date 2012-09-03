@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/altadisponibilidade">
+    <file relUrl="bin/Service.pdb" publishTime="09/03/2012 01:08:43" />
+    <file relUrl="bin/Service.dll" publishTime="09/03/2012 01:08:43" />
+    <file relUrl="bin/AltaDisponibilidadeContract.pdb" publishTime="09/03/2012 01:08:42" />
+    <file relUrl="Service.AltaDisponibilidadeService.svc" publishTime="09/03/2012 01:44:16" />
+    <file relUrl="Web.config" publishTime="09/03/2012 01:41:33" />
+    <file relUrl="bin/Service.dll.config" publishTime="09/03/2012 01:41:33" />
+    <file relUrl="bin/AltaDisponibilidadeContract.dll" publishTime="09/03/2012 01:08:42" />
+  </publishTarget>
+</publishData>
